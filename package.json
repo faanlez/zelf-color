@@ -1,0 +1,22 @@
+{
+    "name": "zelf-color",
+    "displayName": "Zelf color",
+    "description": "Color theme for zelf",
+    "version": "0.0.1",
+    "publisher": "faanlez",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zelf Color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zelf Color-color-theme.json"
+            }
+        ]
+    }
+}
